@@ -18,3 +18,4 @@ Temporary Items
 # software files
 ssl/
 *.sublime-project
+*.sublime-workspace
