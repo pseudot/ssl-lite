@@ -1,0 +1,11 @@
+CONF=dev
+KEYNAME=couchpotato
+OU=na
+DNSNAME=couchpotato
+CN=$DNSNAME
+C=na
+ST=na
+L=na
+O=couchpotato
+EMAIL=test@test.com
+PASSWD=password

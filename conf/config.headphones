@@ -1,0 +1,11 @@
+CONF=dev
+KEYNAME=headphones
+OU=na
+DNSNAME=headphones
+CN=$DNSNAME
+C=na
+ST=na
+L=na
+O=headphones
+EMAIL=test@test.com
+PASSWD=password

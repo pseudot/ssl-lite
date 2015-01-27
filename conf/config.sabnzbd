@@ -1,0 +1,11 @@
+CONF=dev
+KEYNAME=sabnzbd
+OU=na
+DNSNAME=sabnzbd
+CN=$DNSNAME
+C=na
+ST=na
+L=na
+O=sickbeard
+EMAIL=test@test.com
+PASSWD=password
